@@ -2,8 +2,6 @@
 
 Software Engineer | Building modern, scalable web applications
 
-Email: setulalchowhan@gmail.com
-
 * 🔭 **I’m currently working on:** Softvence Agency
 * 😄 **Pronouns:** Setu
 * ⚡ **Fun fact:** I Love Tech and tech loves me
