@@ -1,14 +1,12 @@
 # 💫 Hi 👋, I'm Setulal Chowhan
 
-**Passionate Software Engineer || Full Stack Enthusiast || Building Scalable Web Solutions from Bangladesh**
+Software Engineer | Building modern, scalable web applications
 
-Email Me 👉 ✉️ **[setulalchowhan@gmail.com](mailto:setulalchowhan@gmail.com)** For Collaboration/Projects or Anything Else. 😊
+Email: setulalchowhan@gmail.com
 
 * 🔭 **I’m currently working on:** Softvence Agency
-* 🌱 **I’m currently learning:** Next.js
-* 📫 **How to reach me:** [setulalchowhan@gmail.com](mailto:setulalchowhan@gmail.com)
 * 😄 **Pronouns:** Setu
-* ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* ⚡ **Fun fact:** I Love Tech and tech loves me
 
 ## 🌐 Socials:
 
